@@ -23,7 +23,10 @@
   "autoload": {
     "psr-4": {
       "LaraGram\\Filesystem\\": ""
-    }
+    },
+    "files": [
+      "functions.php"
+    ]
   },
   "extra": {
     "branch-alias": {
